@@ -28,15 +28,15 @@ On the other hand, the project's servers reside in the private subnets. Their de
 
 Once you've configured all the settings, click "Create VPC."
 
-![p1](https://github.com/itz-mathesh/aws-public-private-subnet-architecture/assets/144098846/d80b137021c7)
+![vpc](https://github.com/user-attachments/assets/1244f142-d48f-4680-8eb0-9e6479e9a977)
 
-![p2](https://github.com/itz-mathesh/aws-public-private-subnet-architecture/assets/144098846/722b69ac-f980-421b-8cb5-c65e0a26)
+![vpc1](https://github.com/user-attachments/assets/d5e2a49c-cc03-4eab-8cc2-7539873d4a25)
+
+![vp2](https://github.com/user-attachments/assets/9ebe1fb6-321a-4c78-8651-b480a9a375be)
+
+![vpc3](https://github.com/user-attachments/assets/fa48c023-f6b4-4717-8734-ee215941143e)
 
 
-![p3](https://github.com/itz-mathesh/aws-public-private-subnet-architecture/assets/144098846/32cb40b4-622a-4d13-b208-b0c5cf2f)
-
-
-![p4](https://github.com/itz-mathesh/aws-public-private-subnet-architecture/assets/144098846/35732232-120e-4fec-811f-07c2a8438)
 6. Now you can see you are successfully Created VPC .
 
 
@@ -45,47 +45,43 @@ Once you've configured all the settings, click "Create VPC."
 ### Step 2:
 #### Creating the Auto Scaling Group :
 
+![autoscale](https://github.com/user-attachments/assets/0c62a4a9-403d-403c-a216-bb8b913bc2d3)
 
-![p5](https://github.com/itz-mathesh/aws-public-private-subnet-architecture/assets/144098846/a2e7f738-c9e5-4ab7-bfc9ff65f3e235)
+![autoscale1](https://github.com/user-attachments/assets/4999bda3-c8f7-42d7-bea0-2d46f7dc3397)
 
+![lunch_tmplete](https://github.com/user-attachments/assets/bfea52fa-dcb6-4b3f-a8bd-162a26871332)
 
-![p6](https://github.com/itz-mathesh/aws-public-private-subnet-architecture/assets/144098846/4312da54-b049-484e-ad2d-16b0f7163)
-
-
-![p7](https://github.com/itz-mathesh/aws-public-private-subnet-architecture/assets/144098846/31663c3b-acd8-40de-b70170d6e6caaa)
-
-
-![p8](https://github.com/itz-mathesh/aws-public-private-subnet-architecture/assets/144098846/6d0b515a-dbd5-41fd-8565-c039a9e8a)
+![lunch_tmplete1](https://github.com/user-attachments/assets/59b2b6db-5425-414b-a914-3aa3751e7391)
 
 
-![p8](https://github.com/itz-mathesh/aws-public-private-subnet-architecture/assets/144098846/d2d13f41-d10b-49856-02e159bc6bd5)
-
-
-![p9](https://github.com/itz-mathesh/aws-public-private-subnet-architecture/assets/144098846/34d0786d-e05c-48ff-a4cc8a407419b)
 1. Now you have to choose the Key-pair you created.
 
-![p9](https://github.com/itz-mathesh/aws-public-private-subnet-architecture/assets/144098846/89903e99-5673-493e-d92311fb4715)
+![lunch_tmplete2](https://github.com/user-attachments/assets/62bbbeab-180c-4216-ac0a-519ae73e7191)
 
 
-![p11](https://github.com/itz-mathesh/aws-public-private-subnet-architecture/assets/144098846/c2c3f452-ef92-4acc6-c12c55b3f5c7)
+![lunch_tmplete2](https://github.com/user-attachments/assets/c0b6082b-3784-45d6-a482-ebd285d4d3f3)
+
+![lunch_tmplete3](https://github.com/user-attachments/assets/50e0a273-4f99-4e7b-8af1-b656999fca83)
+
+![lunch_tmplete4](https://github.com/user-attachments/assets/c3ebdea5-5827-41ea-9a0a-01e9144c4307)
+
+![autoscale2](https://github.com/user-attachments/assets/a687f76a-333f-4dd5-93d1-4bdd23945586)
 
 
-![p12](https://github.com/itz-mathesh/aws-public-private-subnet-architecture/assets/144098846/6ff77ba7-af887-8c8c-abcec09c2af8)
-
-
-![p13](https://github.com/itz-mathesh/aws-public-private-subnet-architecture/assets/144098846/f1f3b337-6023-2f9-0b44727e2f76)
 2. Scroll Down and then Click "Next".
+![autoscale3](https://github.com/user-attachments/assets/56a01de8-1f6c-4323-8e96-5beaaee767c1)
 
-![p14](https://github.com/itz-mathesh/aws-public-private-subnet-architecture/assets/144098846/2a17a34d-ef2-b0b8-28dbfbcbf890)
 3. Scroll Down and then Click "Next".
 
-![p15](https://github.com/itz-mathesh/aws-public-private-subnet-architecture/assets/144098846/e195037c-ec70-b503-cbb7abc0b14d)
+![autoscale4](https://github.com/user-attachments/assets/577f6e14-989c-4370-8088-12d82e4c6082)
+
 4. Scroll Down and then Click "Next".
 
-![p16](https://github.com/itz-mathesh/aws-public-private-subnet-architecture/assets/144098846/b15e60bf-9e741-ba93-16e724ecf1a5)
+![autoscale5](https://github.com/user-attachments/assets/039f2e78-8986-4444-8b4f-68631016e3dc)
+
 5. Scroll Down and then Click "Skip to Review".
 
-![p17](https://github.com/itz-mathesh/aws-public-private-subnet-architecture/assets/144098846/c2e018ae43e6-83e1-3fa812dcd93c)
+![autoscale6](https://github.com/user-attachments/assets/e23070be-49cc-4a52-a532-84efb2795520)
 6. Now your are Successfully Created Auto Scaling Group.<br>
 7. Open the AWS Management Console.<br>
 8. Navigate to the EC2 console by clicking on "Services" in the top-left corner, then selecting "EC2" under the "Compute" section.<br>
@@ -98,20 +94,17 @@ Since you mentioned that the Auto Scaling Group launched instances in different 
 
 1. Launch Instance as Specified below .
 
+![bastion](https://github.com/user-attachments/assets/8f7c2d2e-6af6-481a-9b10-74e5c6147b21)
 
-![p18](https://github.com/itz-mathesh/aws-public-private-subnet-architecture/assets/144098846/c3c2bb90-685-8d37-3168646203cf)
+![bastion1](https://github.com/user-attachments/assets/d22380b6-906f-4f0f-9727-842d969c5fe3)
 
+![bastion2](https://github.com/user-attachments/assets/a30010df-18df-435c-878b-54c91ba3a096)
 
-![p19](https://github.com/itz-mathesh/aws-public-private-subnet-architecture/assets/144098846/a902949d-683c-b297-99542135eee0)
-
-
-![p20](https://github.com/itz-mathesh/aws-public-private-subnet-architecture/assets/144098846/22d69a9d-4334-94b4-4a4f5d12655a)
-
-
-![p21`](https://github.com/itz-mathesh/aws-public-private-subnet-architecture/assets/144098846/750dea040bd-baf4-efccdfb9dd5b)
+![bastion3](https://github.com/user-attachments/assets/9e977d45-6bda-4970-814d-f4b845910cd4)
 
 
-![p22](https://github.com/itz-mathesh/aws-public-private-subnet-architecture/assets/144098846/5accdbf9-e-b2a7-c95d6f06104d)
+![instance](https://github.com/user-attachments/assets/b933bc48-64d2-49b0-a081-50a0a30ec112)
+
 
 ### Step 4: 
 #### SSH into Private Instance
@@ -173,52 +166,23 @@ We intentionally deployed the application on only one instance to check if the L
 1. Access the EC2 Terminal.
 2. Follow the steps outlined below.
 
-![lb1](https://github.com/itz-mathesh/aws-public-private-subnet-architecture/assets/144098846/6e204024-11f4b583-8dc0b53a15ea)
+![loadbalancer](https://github.com/user-attachments/assets/1d179feb-277a-4f7c-b868-70199834c886)
 
+![loadbalancer1](https://github.com/user-attachments/assets/096477e1-cde9-4348-a209-39258e2d7ead)
 
-![lb2](https://github.com/itz-mathesh/aws-public-private-subnet-architecture/assets/144098846/ae244b71-c4ba-4bf9-0ea82d7e7e5f)
+![loadbalancer2](https://github.com/user-attachments/assets/91f9143e-2322-4549-90f8-4c99a33c7fc9)
 
+![loadbalancer3](https://github.com/user-attachments/assets/cbb8c99e-9131-403a-b8f6-8856beba2b24)
 
-![lb3](https://github.com/itz-mathesh/aws-public-private-subnet-architecture/assets/144098846/3093dd4e-1acb9fe0-c0794f7336fd)
+![loadbalancer4](https://github.com/user-attachments/assets/2b8dd308-5163-4d9f-803e-1515cb016321)
 
+![loadbalancer5](https://github.com/user-attachments/assets/0e08c50e-713e-4ef5-b8cc-c11997d53bf2)
 
-![lb4](https://github.com/itz-mathesh/aws-public-private-subnet-architecture/assets/144098846/84e79b0c-d251-aac5-d05a33d74801)
+![loadbalancer6](https://github.com/user-attachments/assets/c461ae6d-a0ae-411a-bd6e-562ba80e7f60)
 
+![loadbalancer7](https://github.com/user-attachments/assets/ba8d6e9b-f902-4341-bc5d-365eb0e37e4e)
 
-![lb5](https://github.com/itz-mathesh/aws-public-private-subnet-architecture/assets/144098846/58ce870b4343-bcf0-afe3edbcda27)
-
-
-![lb6](https://github.com/itz-mathesh/aws-public-private-subnet-architecture/assets/144098846/bc12e1a3-4427-b6e2-04183afd19fc)
-
-
-![lb7](https://github.com/itz-mathesh/aws-public-private-subnet-architecture/assets/144098846/eebf3ea6-63db-bac7-ca9c2f7dd951)
-
-
-![lb8](https://github.com/itz-mathesh/aws-public-private-subnet-architecture/assets/144098846/b06c155c-442a-bf14-88ff5b8d453b)
-
-
-![lb9](https://github.com/itz-mathesh/aws-public-private-subnet-architecture/assets/144098846/db972f48--4d74-9cce-192ab6117e26)
-
-
-![lb10](https://github.com/itz-mathesh/aws-public-private-subnet-architecture/assets/144098846/6444932a4953-abd9-c3de0a7d80a8)
-
-
-![lb11](https://github.com/itz-mathesh/aws-public-private-subnet-architecture/assets/144098846/d6195b28-4ead-9424-0976cc5600f8)
-
-
-![lb12](https://github.com/itz-mathesh/aws-public-private-subnet-architecture/assets/144098846/12044558-4f74-8e06-d4d32ae15cf2)
-
-
-![lb13](https://github.com/itz-mathesh/aws-public-private-subnet-architecture/assets/144098846/04964f1-4197-b8e9-571e5e724d26)
-
-
-![lb14](https://github.com/itz-mathesh/aws-public-private-subnet-architecture/assets/144098846/b753cdbc-4667-9c4e-05dac0515b72)
-
-
-![lb15](https://github.com/itz-mathesh/aws-public-private-subnet-architecture/assets/144098846/dc6e746e-4138-a431-6ac29cccfdf7)
-
-
-![lb16](https://github.com/itz-mathesh/aws-public-private-subnet-architecture/assets/144098846/f41fac22-41ad-bc92-24b06da4eb94)
+![loadbalancer8](https://github.com/user-attachments/assets/622e894a-3273-4267-a8b4-2bf74c6cef8b)
 
 
 Now We Successfully deployed Application securely in Private instance , We can access it through Internet using Load Balancer Securely .
